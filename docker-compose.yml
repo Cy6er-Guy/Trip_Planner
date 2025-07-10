@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  trip_planner:
+    build: .
+    ports:
+      - "8070:5050"
+    volumes:
+      - ./app/trips.json:/app/trips.json
