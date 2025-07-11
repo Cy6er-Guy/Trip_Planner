@@ -33,7 +33,7 @@
 1. Cloner le dépôt :
 
 ```bash
-git clone https://github.com/votre-utilisateur/Trip_Planner.git
+git clone https://github.com/Cy6er-Guy/Trip_Planner.git
 cd Trip_Planner
 
 ```
